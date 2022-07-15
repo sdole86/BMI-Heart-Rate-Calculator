@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMI - Heart Rate Calculator/1.0.0": {
+        "runtime": {
+          "BMI - Heart Rate Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMI - Heart Rate Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

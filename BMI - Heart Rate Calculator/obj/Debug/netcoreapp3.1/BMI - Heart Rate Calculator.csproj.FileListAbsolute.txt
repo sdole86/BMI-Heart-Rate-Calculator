@@ -1,0 +1,14 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\bin\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit C\BMI - Heart Rate Calculator\BMI - Heart Rate Calculator\obj\Debug\netcoreapp3.1\BMI - Heart Rate Calculator.genruntimeconfig.cache

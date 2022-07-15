@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUmDpiixt2/0g3H3J/G+nYt2dlgtF5a/OyCTePSJtztPwMhhIdf6XjKdFL6fjVv328KZqBjJlk67AOgP6MjOqA==",
+  "success": true,
+  "projectFilePath": "P:\\School\\2021-03 Fall\\CSCI 1630 - Introduction to C# Programming\\Unit C\\BMI - Heart Rate Calculator\\BMI - Heart Rate Calculator\\BMI - Heart Rate Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dole05\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
